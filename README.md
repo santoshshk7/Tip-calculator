@@ -4,7 +4,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor]
 
 ### Screenshot
 
-<img src="/design/active-states.jpg" />
+<img src="/design/active-states.png" />
 
 ### Links
 
